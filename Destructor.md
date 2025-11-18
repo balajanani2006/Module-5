@@ -22,7 +22,7 @@ To create a Python class `Student` with a destructor.
 ### PROGRAM
 
 ```
-class Student:
+class Student: 
     def _init_(self):
         print("Employee created.")
     def _del_(self):
